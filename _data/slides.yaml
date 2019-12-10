@@ -46,3 +46,75 @@
   tooltip_margin_top: 220px
   tooltip_margin_left: 205px
   tooltip_direction: left
+- caption_title: Reference Collections
+  caption_text: Collection of requests that represent the entire surface area of an API, providing everything developers need to put an API to work.
+  margin_margin_top: 500px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/reference.png
+  tooltip_show: 0
+  tooltip_text: Collections
+  tooltip_width: 175px
+  tooltip_margin_top: 220px
+  tooltip_margin_left: 205px
+  tooltip_direction: left
+- caption_title: Walk-Through Collections
+  caption_text: Collection of requests that walk you thrugh specific concepts, and introduce you to the most important concepts that exist via an API platform.
+  margin_margin_top: 500px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/walkthrough.png
+  tooltip_show: 0
+  tooltip_text: Collections
+  tooltip_width: 175px
+  tooltip_margin_top: 220px
+  tooltip_margin_left: 205px
+  tooltip_direction: left
+- caption_title: Workflow Collections
+  caption_text: Collection of requests that step consumers through a specific business process by daisy chaining multiple API requests together in a single workflow.
+  margin_margin_top: 500px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/workflows.png
+  tooltip_show: 0
+  tooltip_text: Collections
+  tooltip_width: 175px
+  tooltip_margin_top: 220px
+  tooltip_margin_left: 205px
+  tooltip_direction: left
+- caption_title: Analyst Collections
+  caption_text: Collection of requests that are designed for use by analysts, helping pull data from across systems, and displaying in a usable format.
+  margin_margin_top: 500px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/workflows.png
+  tooltip_show: 0
+  tooltip_text: Collections
+  tooltip_width: 175px
+  tooltip_margin_top: 220px
+  tooltip_margin_left: 205px
+  tooltip_direction: left
+- caption_title: Infrastructure Collections
+  caption_text: Collection of requests that are used to actually deploy, manage, and orchestrate with API infrastructure, controlling how APIs are delivered.
+  margin_margin_top: 500px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/infrastructure.png
+  tooltip_show: 0
+  tooltip_text: Collections
+  tooltip_width: 175px
+  tooltip_margin_top: 220px
+  tooltip_margin_left: 205px
+  tooltip_direction: left
+- caption_title: Governance
+  caption_text: Collection of requests that are used to call the Postman API and process the schema used as part of the API design, ensuring patterns are followed.
+  margin_margin_top: 500px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/governance.png
+  tooltip_show: 0
+  tooltip_text: Collections
+  tooltip_width: 175px
+  tooltip_margin_top: 220px
+  tooltip_margin_left: 205px
+  tooltip_direction: left
