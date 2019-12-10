@@ -1,9 +1,9 @@
-# Postman Data Visualization Demo
+# Postman: Different Types of Collections
 This is a basic walkthrough of creating data visualizations using Postman.
 
-The demo can be viewed at: https://postman-demos.github.io/data-visualization/
+The demo can be viewed at: https://postman-demos.github.io/different-types-of-collections/
 
-YAML Slides - https://github.com/postman-demos/data-visualization/blob/master/_data/slides.yaml
+YAML Slides - https://github.com/postman-demos/different-types-of-collections/blob/master/_data/slides.yaml
 
 ## Outline
 - API Requests
