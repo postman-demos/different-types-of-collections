@@ -1,0 +1,48 @@
+- caption_title: API Requests
+  caption_text: Using Postman, you can make requests to an API, defining the details of each request, then sending when complete.
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-visualization-1-api-request.png
+  tooltip_show: 1
+  tooltip_text: Request
+  tooltip_width: 160px
+  tooltip_margin_top: 115px
+  tooltip_margin_left: 660px
+  tooltip_direction: left
+  caption_width: 40
+- caption_title: API Response
+  caption_text: You can view the response, seeing the body, cookies, headers, and other details of the request being made.
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-visualization-2-api-response.png
+  tooltip_show: 1
+  tooltip_text: Response
+  tooltip_width: 160px
+  tooltip_margin_top: 370px
+  tooltip_margin_left: 790px
+  tooltip_direction: left
+  caption_width: 35
+- caption_title: Save Request
+  caption_text: Each individual response can be saved, allowing it to be used in the future, shared, and made available to anyone who is given access, making use of each request.
+  margin_margin_top: 500px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/postman-save-request.png
+  tooltip_show: 1
+  tooltip_text: Save
+  tooltip_width: 95px
+  tooltip_margin_top: 107px
+  tooltip_margin_left: 1080px
+  tooltip_direction: right
+- caption_title: Save As Collections
+  caption_text: You can choose to see the response in a variety of formats, allowing for the data to be displayed in whatever way you want as a consumer.
+  margin_margin_top: 500px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/postman-client.png
+  tooltip_show: 1
+  tooltip_text: Collections
+  tooltip_width: 175px
+  tooltip_margin_top: 220px
+  tooltip_margin_left: 205px
+  tooltip_direction: left
