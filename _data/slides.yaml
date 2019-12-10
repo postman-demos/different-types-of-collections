@@ -59,7 +59,7 @@
   tooltip_margin_left: 205px
   tooltip_direction: left
 - caption_title: Walk-Through Collections
-  caption_text: Collection of requests that walk you thrugh specific concepts, and introduce you to the most important concepts that exist via an API platform.
+  caption_text: Collection of requests that walk you through specific concepts, and introduce you to the most important things going on with an API.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 0
@@ -71,7 +71,7 @@
   tooltip_margin_left: 205px
   tooltip_direction: left
 - caption_title: Workflow Collections
-  caption_text: Collection of requests that step consumers through a specific business process by daisy chaining multiple API requests together in a single workflow.
+  caption_text: Collection of requests that step consumers through a specific business process by chaining multiple API requests together into a single workflow.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 0
@@ -107,7 +107,7 @@
   tooltip_margin_left: 205px
   tooltip_direction: left
 - caption_title: Governance
-  caption_text: Collection of requests that are used to call the Postman API and process the schema used as part of the API design, ensuring patterns are followed.
+  caption_text: Collection of requests that are used to call the Postman API and process the schema used as part of an APIs design, ensuring healthy patterns are followed.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 0
