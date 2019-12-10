@@ -32,7 +32,7 @@
   tooltip_text: Save
   tooltip_width: 95px
   tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
+  tooltip_margin_left: 980px
   tooltip_direction: right
 - caption_title: Save As Collections
   caption_text: You can choose to see the response in a variety of formats, allowing for the data to be displayed in whatever way you want as a consumer.
