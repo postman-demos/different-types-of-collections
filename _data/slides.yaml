@@ -87,7 +87,7 @@
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 0
-  background_image: images/workflows.png
+  background_image: images/analyst.png
   tooltip_show: 0
   tooltip_text: Collections
   tooltip_width: 175px
