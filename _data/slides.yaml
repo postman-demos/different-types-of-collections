@@ -106,7 +106,7 @@
   tooltip_margin_top: 220px
   tooltip_margin_left: 205px
   tooltip_direction: left
-- caption_title: Governance
+- caption_title: Governance Collections
   caption_text: Collection of requests that are used to call the Postman API and process the schema used as part of an APIs design, ensuring healthy patterns are followed.
   margin_margin_top: 500px
   caption_width: 40
